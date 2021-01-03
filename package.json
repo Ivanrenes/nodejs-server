@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "Create a server with nodejs",
+  "main": "server.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nothing",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nothing"
+  },
+  "keywords": [
+    "nothign"
+  ],
+  "author": "Ivan Rodriguez E",
+  "license": "MIT"
+}
